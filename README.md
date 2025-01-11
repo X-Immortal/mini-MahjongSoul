@@ -4,6 +4,12 @@
 
 ## Change Log
 
+2025/01/11 17:00 更新内容：
+
+1. 测试点更新至 91 个。
+2. 更新了 CMakeLists.txt，现在可以在 CLion 中直接提交代码了。
+3. 更新了 compile.sh/.ps1 脚本，现在可以在 Linux 中直接用调试的参数编译代码，且在编译时会显示更多警告。
+
 2024/12/12 22:00 更新内容：
 
 1. 调整测试点分数占比。
@@ -150,6 +156,14 @@ OJ 会在评测时给定不同的初始台面状态，运行你所编写的代�
 - 修改 `Makefile` 或 `CMakeLists.txt` 中除 git 目标依赖的部分，我们在 Makefile 中确保了你的每一次编译运行都能够自动进行 git commit。这些自动的 commit 可以帮助你回滚到自己想要的任意版本，并且在未来查重工作中产生疑问时，良好的 commit 记录将成为重要的证明。
 
 > 与 `Status`、`Result`、`majsa()` 相关的任何定义（包括如 `KazeType`、`Yaku` 等的定义）均不建议改动，否则后果自负。
+
+## 如何构建/编译/运行你的程序
+
+可以参考 gitm 的[项目文档中相应部分](https://njusecourse.feishu.cn/wiki/D8Fxw3GFFiSYMRkhowxcaNDZnFc#share-SF6xdG0neodrA0xpjzHcNDL3n3c)。
+
+## 如何提交你的代码
+
+可以直接将整个文件夹压缩后提交，也可以参考 gitm 的[项目文档中相应部分](https://njusecourse.feishu.cn/wiki/D8Fxw3GFFiSYMRkhowxcaNDZnFc#share-JkLIdINi0o4g4xxG6JxcKrbEn8c)。
 
 ## 测试样例
 
