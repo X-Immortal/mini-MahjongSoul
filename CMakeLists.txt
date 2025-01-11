@@ -11,6 +11,9 @@ include_directories(.)
 # 生成可执行文件
 add_executable(majsa ${SOURCES})
 
+# 添加编译选项
+add_compile_options(-Wall -Wextra)
+
 # 添加自定义目标和命令
 add_custom_target(git_commit
     COMMAND git add -A

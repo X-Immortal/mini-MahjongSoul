@@ -1,12 +1,14 @@
 [
   {
     "test": 0,
+    "Type": 1,
     "Yaku": [
       "Kokushijuusanmenmachi"
     ]
   },
   {
     "test": 1,
+    "Type": 0,
     "Yaku": [
       "Tanyao",
       "Riichi",
@@ -15,6 +17,7 @@
   },
   {
     "test": 2,
+    "Type": 0,
     "Yaku": [
       "YakuhaiChun",
       "HonitsuF"
@@ -22,14 +25,17 @@
   },
   {
     "test": 3,
+    "Type": 2,
     "Yaku": []
   },
   {
     "test": 4,
+    "Type": 4,
     "Yaku": []
   },
   {
     "test": 5,
+    "Type": 1,
     "Yaku": [
       "Riichi",
       "Ippatsu",
@@ -38,6 +44,7 @@
   },
   {
     "test": 6,
+    "Type": 0,
     "Yaku": [
       "Tanyao",
       "Riichi",
@@ -46,60 +53,73 @@
   },
   {
     "test": 7,
+    "Type": 4,
     "Yaku": []
   },
   {
     "test": 8,
+    "Type": 2,
     "Yaku": []
   },
   {
     "test": 9,
+    "Type": 0,
     "Yaku": [
       "YakuhaiChun"
     ]
   },
   {
     "test": 10,
+    "Type": 4,
     "Yaku": []
   },
   {
     "test": 11,
+    "Type": 1,
     "Yaku": [
       "YakuhaiHatsu"
     ]
   },
   {
     "test": 12,
+    "Type": 4,
     "Yaku": []
   },
   {
     "test": 13,
+    "Type": 4,
     "Yaku": []
   },
   {
     "test": 14,
+    "Type": 0,
     "Yaku": [
       "YakuhaiHaku"
     ]
   },
   {
     "test": 15,
+    "Type": 2,
     "Yaku": []
   },
   {
     "test": 16,
+    "Type": 2,
     "Yaku": []
   },
   {
     "test": 17,
+    "Type": 4,
     "Yaku": []
   },
   {
     "test": 18,
+    "Type": 4,
     "Yaku": []
   },
   {
     "test": 19,
+    "Type": 0,
     "Yaku": [
       "Tanyao",
       "Riichi",
@@ -109,6 +129,7 @@
   },
   {
     "test": 20,
+    "Type": 0,
     "Yaku": [
       "Tanyao",
       "Riichi",
@@ -118,10 +139,12 @@
   },
   {
     "test": 21,
+    "Type": 3,
     "Yaku": []
   },
   {
     "test": 22,
+    "Type": 1,
     "Yaku": [
       "Riichi",
       "Menzenchintsumo",
@@ -130,14 +153,17 @@
   },
   {
     "test": 23,
+    "Type": 2,
     "Yaku": []
   },
   {
     "test": 24,
+    "Type": 3,
     "Yaku": []
   },
   {
     "test": 25,
+    "Type": 0,
     "Yaku": [
       "Tanyao",
       "Pinhu",
@@ -147,6 +173,7 @@
   },
   {
     "test": 26,
+    "Type": 0,
     "Yaku": [
       "Tsuuiisou",
       "Shousuushi",
@@ -155,6 +182,7 @@
   },
   {
     "test": 27,
+    "Type": 1,
     "Yaku": [
       "Rinshankaihou",
       "Menzenchintsumo",
@@ -163,12 +191,14 @@
   },
   {
     "test": 28,
+    "Type": 1,
     "Yaku": [
       "Tenhou"
     ]
   },
   {
     "test": 29,
+    "Type": 0,
     "Yaku": [
       "YakuhaiBakaze",
       "YakuhaiHatsu",
@@ -184,6 +214,7 @@
   },
   {
     "test": 30,
+    "Type": 1,
     "Yaku": [
       "Tsuuiisou",
       "Daisuushi",
@@ -192,12 +223,14 @@
   },
   {
     "test": 31,
+    "Type": 1,
     "Yaku": [
       "Chihou"
     ]
   },
   {
     "test": 32,
+    "Type": 1,
     "Yaku": [
       "Tsuuiisou",
       "Suukantsu"
@@ -205,12 +238,14 @@
   },
   {
     "test": 33,
+    "Type": 0,
     "Yaku": [
       "Chuurenpoutou"
     ]
   },
   {
     "test": 34,
+    "Type": 1,
     "Yaku": [
       "Menzenchintsumo",
       "Iipeikou"
@@ -218,18 +253,21 @@
   },
   {
     "test": 35,
+    "Type": 0,
     "Yaku": [
       "Tanyao"
     ]
   },
   {
     "test": 36,
+    "Type": 0,
     "Yaku": [
       "YakuhaiHatsu"
     ]
   },
   {
     "test": 37,
+    "Type": 1,
     "Yaku": [
       "YakuhaiHaku",
       "YakuhaiChun",
@@ -238,6 +276,7 @@
   },
   {
     "test": 38,
+    "Type": 0,
     "Yaku": [
       "YakuhaiHatsu",
       "HonitsuF"
@@ -245,6 +284,7 @@
   },
   {
     "test": 39,
+    "Type": 1,
     "Yaku": [
       "Menzenchintsumo",
       "Chiitoitsu"
@@ -252,6 +292,7 @@
   },
   {
     "test": 40,
+    "Type": 1,
     "Yaku": [
       "YakuhaiJikaze",
       "YakuhaiHaku",
@@ -262,6 +303,7 @@
   },
   {
     "test": 41,
+    "Type": 0,
     "Yaku": [
       "YakuhaiJikaze",
       "YakuhaiHaku"
@@ -269,10 +311,12 @@
   },
   {
     "test": 42,
+    "Type": 2,
     "Yaku": []
   },
   {
     "test": 43,
+    "Type": 0,
     "Yaku": [
       "Daisangen",
       "Tsuuiisou"
@@ -280,6 +324,7 @@
   },
   {
     "test": 44,
+    "Type": 1,
     "Yaku": [
       "Daisangen",
       "Tsuuiisou",
@@ -288,28 +333,33 @@
   },
   {
     "test": 45,
+    "Type": 0,
     "Yaku": [
       "Kokushimusou"
     ]
   },
   {
     "test": 46,
+    "Type": 1,
     "Yaku": [
       "Chuurenkyuumenmachi"
     ]
   },
   {
     "test": 47,
+    "Type": 1,
     "Yaku": [
       "Chuurenkyuumenmachi"
     ]
   },
   {
     "test": 48,
+    "Type": 3,
     "Yaku": []
   },
   {
     "test": 49,
+    "Type": 0,
     "Yaku": [
       "Ryuuiisou",
       "Suuankoutanki"
@@ -317,12 +367,14 @@
   },
   {
     "test": 50,
+    "Type": 0,
     "Yaku": [
       "Ryuuiisou"
     ]
   },
   {
     "test": 51,
+    "Type": 1,
     "Yaku": [
       "Ryuuiisou",
       "Suuankou"
@@ -330,10 +382,12 @@
   },
   {
     "test": 52,
+    "Type": 3,
     "Yaku": []
   },
   {
     "test": 53,
+    "Type": 1,
     "Yaku": [
       "Ryuuiisou",
       "Suuankou"
@@ -341,6 +395,7 @@
   },
   {
     "test": 54,
+    "Type": 0,
     "Yaku": [
       "Houteiraoyui",
       "Riichi",
@@ -352,6 +407,7 @@
   },
   {
     "test": 55,
+    "Type": 0,
     "Yaku": [
       "Chinroutou",
       "Suuankoutanki"
@@ -359,6 +415,7 @@
   },
   {
     "test": 56,
+    "Type": 1,
     "Yaku": [
       "Chinroutou",
       "Suuankou"
@@ -366,6 +423,7 @@
   },
   {
     "test": 57,
+    "Type": 0,
     "Yaku": [
       "Riichi",
       "Ippatsu",
@@ -375,12 +433,242 @@
   },
   {
     "test": 58,
+    "Type": 0,
     "Yaku": [
       "IkkitsuukanF"
     ]
   },
   {
     "test": 59,
+    "Type": 0,
+    "Yaku": [
+      "Riichi"
+    ]
+  },
+  {
+    "test": 60,
+    "Type": 0,
+    "Yaku": [
+      "Iipeikou",
+      "Sanshokudoujun"
+    ]
+  },
+  {
+    "test": 61,
+    "Type": 0,
+    "Yaku": [
+      "JunchantaiyaochuuF"
+    ]
+  },
+  {
+    "test": 62,
+    "Type": 0,
+    "Yaku": [
+      "Tanyao",
+      "Sanshokudoukou",
+      "Toitoihou"
+    ]
+  },
+  {
+    "test": 63,
+    "Type": 0,
+    "Yaku": [
+      "Riichi"
+    ]
+  },
+  {
+    "test": 64,
+    "Type": 4,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 65,
+    "Type": 4,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 66,
+    "Type": 4,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 67,
+    "Type": 3,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 68,
+    "Type": 3,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 69,
+    "Type": 3,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 70,
+    "Type": 0,
+    "Yaku": [
+      "Honchantaiyaochuu",
+      "Honitsu",
+      "Ryanpeikou"
+    ]
+  },
+  {
+    "test": 71,
+    "Type": 4,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 72,
+    "Type": 4,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 73,
+    "Type": 2,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 74,
+    "Type": 2,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 75,
+    "Type": 2,
+    "Yaku": [
+      ""
+    ]
+  },
+  {
+    "test": 76,
+    "Type": 0,
+    "Yaku": [
+      "SanshokudoujunF"
+    ]
+  },
+  {
+    "test": 77,
+    "Type": 0,
+    "Yaku": [
+      "ChinitsuF"
+    ]
+  },
+  {
+    "test": 78,
+    "Type": 1,
+    "Yaku": [
+      "Haiteiraoyue",
+      "Menzenchintsumo",
+      "doubleRiichi"
+    ]
+  },
+  {
+    "test": 79,
+    "Type": 0,
+    "Yaku": [
+      "YakuhaiChun",
+      "Riichi",
+      "Iipeikou",
+      "Honchantaiyaochuu"
+    ]
+  },
+  {
+    "test": 80,
+    "Type": 0,
+    "Yaku": [
+      "Sankantsu",
+      "Toitoihou",
+      "Sanankou"
+    ]
+  },
+  {
+    "test": 81,
+    "Type": 0,
+    "Yaku": [
+      "SanshokudoujunF"
+    ]
+  },
+  {
+    "test": 82,
+    "Type": 2,
+    "Yaku": []
+  },
+  {
+    "test": 83,
+    "Type": 0,
+    "Yaku": [
+      "Pinhu",
+      "Ryanpeikou",
+      "Chinitsu"
+    ]
+  },
+  {
+    "test": 84,
+    "Type": 0,
+    "Yaku": [
+      "Sanankou"
+    ]
+  },
+  {
+    "test": 85,
+    "Type": 4,
+    "Yaku": []
+  },
+  {
+    "test": 86,
+    "Type": 4,
+    "Yaku": []
+  },
+  {
+    "test": 87,
+    "Type": 0,
+    "Yaku": [
+      "Toitoihou",
+      "Sanankou"
+    ]
+  },
+  {
+    "test": 88,
+    "Type": 0,
+    "Yaku": [
+      "Toitoihou",
+      "Sanankou"
+    ]
+  },
+  {
+    "test": 89,
+    "Type": 0,
+    "Yaku": [
+      "Sanankou",
+      "ChinitsuF"
+    ]
+  },
+  {
+    "test": 90,
+    "Type": 0,
     "Yaku": [
       "Riichi"
     ]
